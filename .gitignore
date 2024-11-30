@@ -1,0 +1,70 @@
+# Environment and IDE
+venv/
+env/
+.env
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.python-version
+
+# Build and Distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Logs and Databases
+*.log
+*.sqlite
+*.db
+logs/
+log/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project Specific
+config.ini
+secrets.json
+credentials.json
+api_keys.txt
+*.session
+*.session-journal
+
+# Temporary files
+*.swp
+*.swo
+*~ 
