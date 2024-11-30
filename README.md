@@ -26,8 +26,8 @@ A powerful desktop application that analyzes Amazon product reviews using advanc
 1. Clone the repository:
 
 bash
-git clone https://github.com/kylerichardz/SENTIMENT-AI.git
-cd SENTIMENT-AI
+git clone https://github.com/kylerichardz/SENTIMENTAI.git
+cd SENTIMENTAI
 ```
 
 2. Create a virtual environment:
@@ -119,7 +119,7 @@ Found a bug? Please open an issue with:
 
 Kyle - [@kylerichardz](https://github.com/kylerichardz)
 
-Project Link: [https://github.com/kylerichardz/SENTIMENT-AI](https://github.com/kylerichardz/SENTIMENT-AI)
+Project Link: [https://github.com/kylerichardz/SENTIMENTAI](https://github.com/kylerichardz/SENTIMENTAI)
 
 ## 🚀 Other Projects by Kyle
 
